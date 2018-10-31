@@ -4,7 +4,7 @@ Hello World in all possible programming languages
 
 ## Aim
 
-This repository should eventually contain the famous "Hello World" program in all the programming languages possible...
+This repository should eventually contain the famous "Hello World" program in all the popular programming languages possible...
 
 ## How to Contribute to this repository
 
@@ -20,7 +20,7 @@ This repository should eventually contain the famous "Hello World" program in al
 ## How to make changes?
 
 - Check if the language in which you want to contribute is already covered or not?
-- Add code for your language with file name `HelloWorld.extension of your programming language` like `py` for python. `c` for language C.
+- Add code for your language with file name in the format `HelloWorld.extension of your programming language` like `py` for python. `c` for language C.
 - Add your language to this file in the below list.
 
 ## Languages Covered
